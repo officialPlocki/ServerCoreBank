@@ -1,0 +1,8 @@
+name: BankAddon
+author: plocki
+version: 1.0
+api-version: 1.16
+main: org.ehrengames.bankaddon.main.Main
+commands:
+   bank:
+   ecobank:
